@@ -1,4 +1,4 @@
-package holiday
+package holiday_jp
 
 import (
 	"errors"
