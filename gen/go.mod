@@ -1,4 +1,4 @@
-module github.com/holiday-jp/holiday_jp-go/gen
+module github.com/IdaliaGeeks/holiday_jp-go/gen
 
 go 1.15
 

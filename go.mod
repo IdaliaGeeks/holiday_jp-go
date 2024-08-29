@@ -1,3 +1,3 @@
-module github.com/holiday-jp/holiday_jp-go
+module github.com/IdaliaGeeks/holiday_jp-go
 
 go 1.15
