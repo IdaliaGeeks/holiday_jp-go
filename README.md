@@ -10,13 +10,13 @@
 ## Installing
 
 ```bash
-$ go get github.com/holiday-jp/holiday_jp-go
+$ go get github.com/IdaliaGeeks/holiday_jp-go
 ```
 
 ## Example
 
 ```go
-import "github.com/holiday-jp/holiday_jp-go"
+import "github.com/IdaliaGeeks/holiday_jp-go"
 
 if holiday.IsHoliday(time.Now()) {
     fmt.Println("today is holiday!")
